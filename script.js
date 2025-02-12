@@ -82,8 +82,8 @@ async function updateData(data){
 }
 
 //Default Call
-checkWeather("kolkata");
-generateImage("kolkata")
+checkWeather("Bengaluru");
+generateImage("Bengaluru")
 
 
 //Image API call
